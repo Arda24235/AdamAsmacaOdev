@@ -1,1 +1,1 @@
-Kurta Yaptığım basit Adam Asmaca Oyunu
+Kursta Yaptığım basit Adam Asmaca Oyunu
